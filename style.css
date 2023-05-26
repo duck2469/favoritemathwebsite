@@ -72,8 +72,8 @@ body {
     height: 20px; /* height sets the height */
     top: 0; /* top sets the top position */
     width: 100%; /* width: 100% makes this fill the screen */
-    background-color: rgb(137, 3, 3);  /* Background-Color sets the background color of an element */
-    background: linear-gradient(rgb(137, 3, 3),rgb(56, 1, 1)); /* Background can also set the background color of an element, but can do way more. I use it here for just in case browser don't support linear-gradient */
+    background-color: rgb(249 231 231);  /* Background-Color sets the background color of an element */
+    background: linear-gradient(rgb(109 109 109),rgb(41 41 41)); /* Background can also set the background color of an element, but can do way more. I use it here for just in case browser don't support linear-gradient */
     padding: 10px; /* Padding is the area inside of the box that is padded */
     box-shadow: 0 0 15px 0 rgb(0 0 0 / 35%); /* box-shadow makes a drop shadow. confusing */
     display: table-cell; /* Changes the way how elemnts are organised */
